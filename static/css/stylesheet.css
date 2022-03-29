@@ -1,3 +1,4 @@
+/*style body*/
 body {
     background-color:  black;
     color: white;
@@ -7,3 +8,15 @@ body {
     user-select: none;
     cursor: default;
 }
+
+/*style header*/
+div#header {
+    height: 70px;
+}
+
+nav.bd.dark-background {
+    margin-top: 0px;
+    position: relative;
+    background: transparent;
+}
+
